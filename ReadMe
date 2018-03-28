@@ -1,0 +1,7 @@
+::SG BANK::
+
+A C# bank account console app to monitor account activity.
+
+- Used dependency injection to determine repository types.
+- Has In-Memory, Delimited Text File, and Entity Framework data repositories.
+- Has lots of handy UI console methods for displaying data and validating user input.
